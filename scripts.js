@@ -6,7 +6,7 @@ $(document).ready(function () {
   var elTweetButton     = document.getElementById('tweetQuote');
   var elQuoteText       = document.getElementById('quoteText');
   var elAuthorText      = document.getElementById('authorText');
-  var startText = 'Help me please, I\'m going to have too much work to do this semester and I don\'t think I can cope with it.';
+  var startText = 'Hi! Press the get quote button to get a random quote and the tweet button to tweet it if you like';
   var startAuthor = 'Westley Cho';
 
   elQuoteText.innerHTML = startText;
